@@ -1,0 +1,200 @@
+*{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+#img1{
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+}
+.navbar{
+    margin-left: 70px;
+    margin-right: 70px;
+    height: 15%;
+   
+}
+.nav-link{
+    color: white;
+}
+#navlink{
+    color: white;
+    padding-left: 5px;
+    text-decoration: none;
+}
+#mdimg{
+    width: 922px;
+    margin-top: 0px;
+    height: 25%;
+    position: relative;
+    border: none;
+
+    
+}
+#logo{
+    width: 168px;
+    height: 55px;
+    padding-left: 17px;
+}
+#forests{
+    z-index: 0;
+    margin-top: 30px;
+    width: 100%;
+    height: 500px;
+    border: none;
+    position: absolute;
+    margin-left: -1%;
+}
+
+
+.nav-colurs,.nav-items
+{
+    background-color: black;
+    color: white;
+}
+#forest{
+    position: relative;
+    width: 635px;
+    height: 332px;
+    border: none;
+    margin-top: 145px;
+}#hh{ 
+    z-index: 1;
+    position: relative;
+    float: right;
+    margin-right: 144px;
+    color:white;
+    margin-top: 169px;
+    font-weight: 900;
+    
+}
+#pp{
+    z-index: 1;
+    margin-top: 25px;
+    position: relative;
+    float: right;
+    color:white;
+    font-weight: 600;
+    margin-right: 17px;
+    color:black;
+}
+#lo{
+    position: relative;
+    width: 32px;
+    height: 42px;
+    z-index: 1;
+    padding-left: -7px;
+    float: right;
+    margin-right: 73px;
+    background-color: black;
+    padding-bottom: 10px;
+}
+#video{
+    width: 100%;
+    height: 30%;
+}
+#slide{
+    margin-top: 103px;
+    width: 100%;
+    height: 20%;
+  
+}
+.foot{
+    margin-top: -6%;
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    margin-left: 0%;
+}
+#lo1{
+    margin-left: 38px;
+    margin-right: -18px;
+    width: 27px;
+    height: 20px;
+}
+hr{
+    margin-top:50px ;
+    color: white;
+}
+#hr1{
+    margin-top: 106px;
+    color: white;
+    margin-left: -80px;
+}
+#lo2{
+    padding-left: -28px;
+    width: 170px;
+    height: 60px;
+    float: right;
+    margin-right: 68px;
+    margin-top: 9px;
+}
+#fh{
+    margin-left: 39px;
+    color: white;
+}
+a{
+    margin-left: 39px;
+    text-decoration: none;
+    color:white;
+}
+
+h6{
+    margin-left: 39px;
+
+}
+.foot-li,.foot-ul
+{
+    display: inline-flex;
+}
+.foot-li
+{
+    padding: 10px;
+}
+.foot-img
+{
+    height: 50px;
+    width: 150px;
+}
+.foot-sec
+{
+    color: white;
+    font-weight: 800;
+}
+.foot-li2, foot-ul2
+{
+    list-style-type: none;
+}
+.ul-logo,.images-log
+{
+    display: flex;
+}
+
+#logo
+{
+    height: 40px; 
+    width: 100px;
+}
+.image-section
+{
+    height: 700px;
+    width: 100%;
+    background-image: url("bg_gamesocial_clashofclans.6d3e064f.webp");
+  display: flex;
+
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+  
+}
+.a
+{
+    display: flex;
+}
+.c
+{
+    color: white;
+    text-align: center;
+}
